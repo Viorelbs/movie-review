@@ -1,0 +1,32 @@
+[
+  {
+    "file": "txt_sentoken/neg/cv466_20092.txt",
+    "actual": "negative",
+    "predicted": "positive",
+    "excerpt": "running time approximately 1hr 40mins \nreviewed by jack choo \nrating : \nthe movie starts with a rather se7en-ish opening sequence , rather cool and sets the mood for things to come . \nthe story propels the audience into a neo-reality ; somewhat very close to conscious reality but laced with weird tinges of blue and red . \nexistenz is actually the name of a new virtual-reality game . \nsupposedly , vr games are highly popular as is considered a legal-drug in this neo-reality . \n * * * * ( leigh ) is the ultimate game creator and introduces her ul"
+  },
+  {
+    "file": "txt_sentoken/neg/cv106_18379.txt",
+    "actual": "negative",
+    "predicted": "positive",
+    "excerpt": "in the line of duty is the critically praised series of television movies dealing with the real-life incidents that claimed lives of law enforcement officers in usa . \nthe twilight murders , another one from the series , is dealing with the case of gordon kahl ( played by rod steiger ) , old farmer from north dakota who would rather spend a year in prison than pay taxes to the despised u . s . government . \nafter being released , he still refuses to pay taxes and the warrant is issued for his arrest . \nwhen the u . s . marshals come to arrest h"
+  },
+  {
+    "file": "txt_sentoken/pos/cv525_16122.txt",
+    "actual": "positive",
+    "predicted": "negative",
+    "excerpt": " \" take a number , fill out a form , and wait your turn . \" \nstarring kati outinen , kari v ? ? n ? nen , sakari kuosmanen , elina salo ; written & directed by aki kaurism ? ki ; cinematography by timo salminen \nit might be possible to call drifting clouds a satire or a black comedy , but that would imply a sense of anger , of vitriol , of energy ; drifting clouds is what you get when the rage and vitality are gone . \nit is the sad , slow story of lauri and ilona , a married couple caught between the wheels of capitalism as it grinds inexorably"
+  },
+  {
+    "file": "txt_sentoken/pos/cv028_26746.txt",
+    "actual": "positive",
+    "predicted": "negative",
+    "excerpt": " \" the blair witch project \" was perhaps one of a kind , a unique film that played completely on its own merit , managing to scare even the most experienced horror fans out of their senses . \nits success made a sequel inevitable , but this is not the sequel , i suspect , anyone much wanted . \nafter the release of \" the blair witch project \" , tourists have practically invaded the small town of burkettsville , in order to get a glimpse of the blair witch . \nlocals have turned this mass hysteria into a great business opportunity , selling twig-sc"
+  },
+  {
+    "file": "txt_sentoken/pos/cv841_3967.txt",
+    "actual": "positive",
+    "predicted": "negative",
+    "excerpt": "let's face it : since waterworld floated by , the summer movie season has grown * very * stale . \nwith no new eye-candy for four weeks straight , we've had to sustain ourselves on the quasi-nutritional value of cheatin' husbands , traveling chocolate salesmen , and computer- generated serial killers . \nsigh . \nthank god for desperado . \nthe freewheeling sequel to el mariachi--director robert rodriguez's notorious $7000 debut--stars a cool antonio banderas as the returning guitarist with no name . \nhe's a man in black with revenge on his mind , "
+  }
+]
